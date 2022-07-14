@@ -1,0 +1,26 @@
+
+.lyrics{
+	font-family: arial;
+	white-space: pre-wrap;
+	color: white;
+	
+	}
+.movie{
+	color: white;
+	border-top-left-radius: 25px;
+	border-top-right-radius: 25px;
+	text-align: center;
+	background-image: linear-gradient(#eb4034,#fa574b);
+	font-family: Times New Roman;
+	font-size: large;
+	height: 100px;
+	width: 200px;
+}
+#naam{
+	font-family:lucida handwriting;
+	font-size: 150%;
+}
+#cover{
+	height: 200px;
+	width: 200px;
+}
